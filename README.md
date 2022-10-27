@@ -16,7 +16,7 @@
 - 編譯
     - `ant`
 - 執行
-    - `hadoop jar output.jar FollowingBehaviors Ep@HDFS EpFollowingBehaviorsResult1 EpFollowingBehaviorsResult2`
+    - hadoop jar example.jar WordCount hdfs_files result_stored_folder`
 - 查看執行結果
     - `hadoop fs -cat EpFollowingBehaviorsResult2/part-r-00000`
 
