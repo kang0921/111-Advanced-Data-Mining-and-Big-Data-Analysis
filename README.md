@@ -8,8 +8,6 @@
 - Lab2：設計Hadoop版本之 K-Means Algorithm Implementation
 - Lab3：Following Behaviors in Ep.txt
 
----
-
 ## 指令
 - 登入指令
     - `ssh kang@140.120.182.143 -p 1000`
